@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 # GxlCMS v1.1.4存在储存xss漏洞
 
 漏洞POC
@@ -10,22 +17,23 @@
 
 http://127.0.0.1/gxl/index.php?s=Admin-Index
 
-![1551775513460](C:\Users\jxy\AppData\Roaming\Typora\typora-user-images\1551775513460.png)
+![avatar]（http://wx1.sinaimg.cn/mw690/0060lm7Tly1g0s0t0zn96j30qc0fgjrw.jpg）
 
 漏洞分析
 
-![1551775634782](C:\Users\jxy\AppData\Roaming\Typora\typora-user-images\1551775634782.png)
+![avatar]（http://wx2.sinaimg.cn/mw690/0060lm7Tly1g0s0t0zvhvj30lt0aswfs.jpg）
 
-![1551775650262](C:\Users\jxy\AppData\Roaming\Typora\typora-user-images\1551775650262.png)
+![avatar]（http://wx1.sinaimg.cn/mw690/0060lm7Tly1g0s0t0zwrcj30yr0aa0tn.jpg）
 
 发现未对代码进行过滤
 
 漏洞证明
 
-![1551775703985](C:\Users\jxy\AppData\Roaming\Typora\typora-user-images\1551775703985.png)
+![avatar]（http://wx2.sinaimg.cn/mw690/0060lm7Tly1g0s0t1034ej31700d1wgf.jpg）
 
 前台后台均可触发XSS
-
+产品官网
+http://www.gxlcms.com
 
 
 
