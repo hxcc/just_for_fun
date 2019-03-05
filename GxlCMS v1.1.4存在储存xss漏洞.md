@@ -17,19 +17,19 @@
 
 http://127.0.0.1/gxl/index.php?s=Admin-Index
 
-![avatar]（http://wx1.sinaimg.cn/mw690/0060lm7Tly1g0s0t0zn96j30qc0fgjrw.jpg）
+![image][http://wx1.sinaimg.cn/mw690/0060lm7Tly1g0s0t0zn96j30qc0fgjrw.jpg]
 
 漏洞分析
 
-![avatar]（http://wx2.sinaimg.cn/mw690/0060lm7Tly1g0s0t0zvhvj30lt0aswfs.jpg）
+![image][http://wx2.sinaimg.cn/mw690/0060lm7Tly1g0s0t0zvhvj30lt0aswfs.jpg]
 
-![avatar]（http://wx1.sinaimg.cn/mw690/0060lm7Tly1g0s0t0zwrcj30yr0aa0tn.jpg）
+![image][http://wx1.sinaimg.cn/mw690/0060lm7Tly1g0s0t0zwrcj30yr0aa0tn.jpg]
 
 发现未对代码进行过滤
 
 漏洞证明
 
-![avatar]（http://wx2.sinaimg.cn/mw690/0060lm7Tly1g0s0t1034ej31700d1wgf.jpg）
+![image][http://wx2.sinaimg.cn/mw690/0060lm7Tly1g0s0t1034ej31700d1wgf.jpg]
 
 前台后台均可触发XSS
 产品官网
