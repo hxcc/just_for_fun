@@ -2,8 +2,7 @@
 
 1.在`管理员`->`添加管理员`功能处存在CSRF漏洞
 
-![1552031247174](C:\Users\jxy\AppData\Roaming\Typora\typora-user-images\1552031247174.png)
-
+！[image](https://imgchr.com/i/kzyrKe)
 POC
 
 `<html>`
@@ -25,7 +24,7 @@ POC
 
 验证
 
-![1552031555813](C:\Users\jxy\AppData\Roaming\Typora\typora-user-images\1552031555813.png)
+![image](https://imgchr.com/i/kzysDH)
 
 发现可以添加后台管理员
 
