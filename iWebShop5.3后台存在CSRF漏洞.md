@@ -2,7 +2,7 @@
 
 1.在`管理员`->`添加管理员`功能处存在CSRF漏洞
 
-！[image] （http://wx2.sinaimg.cn/mw690/0060lm7Tly1g0vg867mdmj30tz0nt75j.jpg）
+！[image](http://wx2.sinaimg.cn/mw690/0060lm7Tly1g0vg867mdmj30tz0nt75j.jpg)
 POC
 
 `<html>`
@@ -24,7 +24,7 @@ POC
 
 验证
 
-![image] (http://wx1.sinaimg.cn/mw690/0060lm7Tly1g0vg868y55j31ef0il0v8.jpg)
+![image](http://wx1.sinaimg.cn/mw690/0060lm7Tly1g0vg868y55j31ef0il0v8.jpg)
 
 发现可以添加后台管理员
 
